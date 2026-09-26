@@ -1,0 +1,6 @@
+{
+  "name": "Craft & Drop: Merge Pickaxe",
+  "description": "2D игра в стиле Майнкрафт: объединяй кирки, запускай их вглубь шахты, круши блоки, взрывай динамит и добывай редкие руды!",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
